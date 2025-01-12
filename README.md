@@ -1,7 +1,7 @@
 ### 👋 Bem-vindo ao meu GitHub
 # Davi Quinino - Desenvolvedor
 
-![Colorful divisory](https://i.imgur.com/waxVImv.png)
+
 
 ## 🖥️ Habilidades que Tenho Atualmente
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -25,6 +25,6 @@
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)
 [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#)
 
-![Colorful divisory](https://i.imgur.com/waxVImv.png)
+
 
 [![SrDarkLion GitHub stats](https://github-readme-stats.vercel.app/api?username=srdarklion&show_icons=true&theme=dark&hide=stars,issues)](#)
