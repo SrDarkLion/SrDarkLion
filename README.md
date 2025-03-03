@@ -1,5 +1,5 @@
 ### 👋 Bem-vindo ao meu GitHub
-# Davi Quinino - Desenvolvedor
+# Davi Quinino - Desenvolvedor Backend
 
 
 
@@ -10,13 +10,9 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
-</div>
-
-## 🖥️ Editores de Código 
-<div align="center">
-
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
+[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 </div>
 
 ## ✏ Design
@@ -33,6 +29,7 @@
 [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](#)
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=fff)](#)
 [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?style=for-the-badge&logo=codecademy&logoColor=white)](#)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](#)
 
 </div>
 
@@ -41,10 +38,10 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviquininooficial@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daviquinino/)
+[![portifolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://daviquinino.netlify.app)
 
 </div>
 
 ## 📌 Status 
 
 [![SrDarkLion GitHub stats](https://github-readme-stats.vercel.app/api?username=srdarklion&show_icons=true&theme=dark&hide=stars,issues)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrDarkLion&layout=compact&theme=dark&hide=html,shell,scheme,lua,css,scss,sass,python,mdx,md)](#)
