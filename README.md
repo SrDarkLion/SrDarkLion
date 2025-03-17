@@ -1,29 +1,28 @@
-### 👋 Bem-vindo ao meu GitHub
-# Davi Quinino - Desenvolvedor Backend
+### 👋 Welcome to my GitHub
+# Davi Quinino - Developer & Designer
 
 
 
-## 🖥️ Habilidades que Tenho Atualmente
+## 🖥️ My skills
 <div align="center">
   
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
-[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-</div>
-
-## ✏ Design
-<div align="center">
-
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](#)
 </div>
 
-## 📃 Documentação
+## 📃 Documentation
 <div align="center">
 
 [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](#)
@@ -33,7 +32,7 @@
 
 </div>
 
-## 📞 Contato
+## 📞 Contact
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviquininooficial@gmail.com)
@@ -41,7 +40,5 @@
 [![portifolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://daviquinino.netlify.app)
 
 </div>
-
-## 📌 Status 
 
 [![SrDarkLion GitHub stats](https://github-readme-stats.vercel.app/api?username=srdarklion&show_icons=true&theme=dark&hide=stars,issues)](#)
