@@ -43,5 +43,3 @@
 [![portifolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://daviquinino.netlify.app)
 
 </div>
-
-[![SrDarkLion GitHub stats](https://github-readme-stats.vercel.app/api?username=srdarklion&show_icons=true&theme=dark&hide=stars,issues)](#)
